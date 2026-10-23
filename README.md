@@ -2,7 +2,7 @@
 
 ![support-case-tracker project banner](docs/project-banner.webp)
 
-A local IT support workspace for recording issues, troubleshooting notes, status changes, and resolutions. Python standard library + SQLite + a responsive HTML/CSS/JavaScript interface. Built as a new learning and portfolio project for Jason Edwards; no claim of employer use or prior home-server deployment.
+A local IT support workspace for recording issues, troubleshooting notes, status changes, and resolutions. Python standard library + SQLite + a responsive HTML/CSS/JavaScript interface. 
 
 ## Run without installing dependencies
 
